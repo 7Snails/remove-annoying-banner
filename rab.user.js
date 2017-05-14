@@ -6,8 +6,8 @@
 // @match        https://scratch.mit.edu/*
 // @match        http://scratch.mit.edu/*
 // @grant        none
-// @downloadURL  https://github.com/7Snails/better-profile/raw/master/bp.user.js
-// @updateURL    https://github.com/7Snails/better-profile/raw/master/bp.user.js
+// @downloadURL  https://github.com/7Snails/remove-annoying-banner/raw/master/rab.user.js
+// @updateURL    https://github.com/7Snails/remove-annoying-banner/raw/master/rab.user.js
 // ==/UserScript==
 
 document.getElementsByClassName("title-banner mod-splash-tenth")[0].style.display = "none";
